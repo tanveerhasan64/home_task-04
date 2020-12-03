@@ -1,0 +1,71 @@
+
+.header{
+	min-height:100px; background-color: powderblue; font-size: 20px; font-family: sans-serif; 
+}
+
+/*Two Content Layout CSS*/
+
+.wrapper{}
+
+.blog{width:70%; min-height: 150px; background-color: yellow; float: left;
+}
+.contact{width:30%; min-height: 150px; background-color: aqua; float: right;}
+
+.footer{min-height: 150px; background-color: orange;}
+
+.wrapper{overflow:hidden;}
+
+/*Three Content Layout CSS*/
+
+.single1{
+	min-height: 150px; 
+	border: 1px solid black;
+	width: 33.1%;
+	float: left;
+}
+.yellow{
+	background-color: yellow;
+}
+.aqua{
+	background-color: aqua;
+}
+.green{
+	background-color: green;
+}
+.footer1{min-height: 150px; background-color: orange;}
+
+/*Four Content Layout CSS*/
+
+.single2{
+	min-height: 150px; 
+	background-color: green;
+	border: 1px solid black;
+	width: 24.8%;
+	float: left;
+}
+.yellow{
+	background-color: yellow;
+}
+.aqua{
+	background-color: aqua;
+}
+.green{
+	background-color: green;
+}
+.brown{
+	background-color: brown;
+}
+.footer2{min-height: 150px; background-color: orange;}
+
+h1{
+	color: indigo;
+}
+
+.headpara{
+	color: indigo; font-size: 25px;
+}
+
+h3{
+	color: tomato; text-align: center;
+}
+
